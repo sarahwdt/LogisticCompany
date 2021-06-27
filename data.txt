@@ -1,0 +1,4 @@
+client:1:root:
+product:1:coka
+product:2:bepis
+product:3:sprute
